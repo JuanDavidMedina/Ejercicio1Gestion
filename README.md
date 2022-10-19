@@ -15,7 +15,7 @@
 3. Acceso a datos
 4. Gestión
 
-`print("Rafiki el otako")`
+`print("Hello world")`
 
 > Tengo que hacer el proyecto de iOS
 --------------------------------------
