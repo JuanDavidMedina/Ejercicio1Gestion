@@ -9,3 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
+// Este es la tarea 1 de la asignatura de gestión
+
