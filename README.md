@@ -22,7 +22,7 @@
 
 [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
-[Lupa](pipa-de-humo.png)
+[Lupa](istockphoto-519752711-612x612.jpg)
 
 ### Ejercicio 3 {#id-gestion}
 
