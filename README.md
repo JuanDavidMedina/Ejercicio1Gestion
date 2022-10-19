@@ -8,3 +8,21 @@
 - PSP
 - Acceso a datos
 - Diseño
+
+*Asignaturas con trabajos pendientes*
+1. iOS
+2. Diseño
+3. Acceso a datos
+4. Gestión
+
+`print("Rafiki el otako")`
+
+> Tengo que hacer el proyecto de iOS
+--------------------------------------
+
+[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+
+
+
+
+
