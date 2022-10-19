@@ -22,7 +22,7 @@
 
 [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
-[Lupa](istockphoto-519752711-612x612.jpg)
+[Lupa](https://play.google.com/store/apps/details?id=com.app2u.magnifier&hl=es&gl=US)
 
 ### Ejercicio 3 {#id-gestion}
 
