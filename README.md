@@ -22,7 +22,7 @@
 
 [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
-[Lupa](https://play.google.com/store/apps/details?id=com.app2u.magnifier&hl=es&gl=US)
+[Lupa](https://static7.depositphotos.com/1008280/763/i/600/depositphotos_7635883-stock-photo-magnifying-glass-isolated-on-white.jpg)
 
 ### Ejercicio 3 {#id-gestion}
 
