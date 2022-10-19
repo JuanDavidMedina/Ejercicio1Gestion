@@ -24,7 +24,34 @@
 
 [Lupa](pipa-de-humo.png)
 
+### Ejercicio 3 {#id-gestion}
 
+~~Ejercicio 1~~
+
+- [x] Inglés
+- [ ] PSP
+- [ ] iOS
+
+==Rojo==
+H~2~O 
+x^2^
+
+```
+{
+"los": "colores",
+"no": "funcionan",
+}
+```
+
+| Primero | Segundo |
+| ------- | ------- |
+| 1| 2 |
+| 3 | 4 |
+
+:video_game:
+
+Creado por [^1]
+[^1]: John David
 
 
 
